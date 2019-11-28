@@ -7,4 +7,4 @@
 #### `Enter The coefficients of the constraint and the RHS value is followed by it`
 #### `That's All u need`
 
-![](Simplex Tableau.PNG)
+![Simplex Tableau](Simplex Tableau.PNG)
