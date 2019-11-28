@@ -7,4 +7,4 @@
 #### `Enter The coefficients of the constraint and the RHS value is followed by it`
 #### `That's All u need`
 
-![Simplex Tableau](./Simplex Tableau.PNG)
+![Simplex Tableau](https://github.com/PrinceRajRoy/Linear-Programming-Simplex-Method/blob/master/Simplex%20Tableau.PNG)
